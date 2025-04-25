@@ -17,8 +17,8 @@
                 </button>
             </div>
             
-            <a href="index.html" class="brand-logo">
-                WorkTrack
+            <a href="" class="brand-logo">
+                <img src="{{URL::to('/') }}/src/img/logo.png" class="invert-dark" alt="" height="20">
             </a>
         </div>
         <!-- END brand -->
