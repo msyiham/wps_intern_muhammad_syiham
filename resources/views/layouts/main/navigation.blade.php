@@ -163,7 +163,7 @@
                     <div>Dark Mode <span class="badge bg-theme text-theme-color ms-1 position-relative py-4px px-6px" style="top: -1px">NEW</span></div>
                     <div class="lh-sm fs-13px fw-semibold">
                         <small class="text-body-emphasis opacity-50">
-                            Adjust the appearance to reduce glare and give your eyes a break.
+                            Sesuaikan penampilan untuk mengurangi silau dan mengistirahatkan mata Anda.
                         </small>
                     </div>
                 </div>
